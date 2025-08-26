@@ -124,3 +124,4 @@ If your audio devices are detected correctly, you should see entries similar to:
 ```
 
 “The steps above are how I fixed my HDMI audio output problem. I am using the built-in speakers of my monitor.”
+“If this guide helped you, feel free to give it a ⭐ on GitHub — it really motivates me to keep improving it!”
